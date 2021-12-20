@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Authors>Elias Puurunen</Authors>
+    <Company>Northern HCI Solutions Inc.</Company>
+    <Description>A collection of common classes I use for WPF-related projects.</Description>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+    <PackageLicenseExpression> BSD-3-Clause</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/eliaspuurunen/Elias.Wpf.Common</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/eliaspuurunen/Elias.Wpf.Common</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>wpf  viewmodel mvvm  net netcore net6</PackageTags>
+  </PropertyGroup>
+
+</Project>

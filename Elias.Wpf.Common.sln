@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elias.Wpf.Common", "Elias.Wpf.Common.csproj", "{A281DA6E-9B73-4EBD-9F75-5BF6578FC1E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A281DA6E-9B73-4EBD-9F75-5BF6578FC1E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A281DA6E-9B73-4EBD-9F75-5BF6578FC1E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A281DA6E-9B73-4EBD-9F75-5BF6578FC1E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A281DA6E-9B73-4EBD-9F75-5BF6578FC1E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B7E1C5C-B5F7-4478-9F0B-E7A14FF593C8}
+	EndGlobalSection
+EndGlobal
